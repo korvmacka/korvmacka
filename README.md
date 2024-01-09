@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @korvmacka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m Shawna Birnbaum.
+- 👀 I’m interested in food and makeup, mostly.
+- 🌱 I’m currently learning Python in an NLP context.
+  
 <!---
 korvmacka/korvmacka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
